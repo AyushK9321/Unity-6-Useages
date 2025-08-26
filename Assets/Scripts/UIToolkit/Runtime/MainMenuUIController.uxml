@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:ui="UnityEngine.UIElements">
+  <Label text="Hello" style="color: #0000FF; font-size: 100px;" />
+</ui:UXML>
+
