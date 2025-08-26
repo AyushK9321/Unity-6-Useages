@@ -1,0 +1,20 @@
+{
+    "asset": "e5b893ef7e89aad4bbe239a3ac8d7744",
+    "fileName": "0198c168-b6ba-76e3-be5c-7e4bb04a67c6.png",
+    "prompt": "Create a 2D sprite sheet of a fire animation on a wooden stick. The fire should have a natural, dynamic look with flickering flames in shades of orange, yellow, and red, and subtle glowing embers. The sprite sheet should include 9 frames of the fire animation to ensure smooth looping. The resolution should be 64x64 pixels per frame with a transparent background",
+    "negativePrompt": "",
+    "model": "105d7d41-843c-4435-96a5-5f6624275470",
+    "modelName": "Anime",
+    "customSeed": -1,
+    "w3CTraceId": "d23fbafc7f843bd75dad2ad6ea8c7eb5",
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0
+}

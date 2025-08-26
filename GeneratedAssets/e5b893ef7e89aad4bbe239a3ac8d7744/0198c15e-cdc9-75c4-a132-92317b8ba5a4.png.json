@@ -1,0 +1,20 @@
+{
+    "asset": "e5b893ef7e89aad4bbe239a3ac8d7744",
+    "fileName": "0198c15e-cdc9-75c4-a132-92317b8ba5a4.png",
+    "prompt": "Create a 2D sprite sheet for a medieval sword. The sword should have a metallic blade with a slight shine, a detailed hilt with gold and leather accents, and a gem embedded in the pommel. The sprite sheet should include multiple angles of the sword (front, side, and diagonal views) and an animation sequence for a swinging motion. The style should be pixel art with a resolution of 64x64 pixels per frame",
+    "negativePrompt": "",
+    "model": "e7d34c27-6927-41dd-8c59-04d1aee5acd4",
+    "modelName": "Game Backgrounds - II",
+    "customSeed": -1,
+    "w3CTraceId": "f7392ec2fc13f88b1632b1de171f3167",
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0
+}

@@ -1,0 +1,11 @@
+{
+    "asset": "0d66d30d1baf25b468fdaeb0ccd66323",
+    "fileName": "0198c16e-d0f1-7648-b1cb-6cdeda9d6221.pose.json",
+    "prompt": "A 2D animation of fire burning on a wooden stick, designed as a sprite sheet with 9 frames to ensure smooth animation.",
+    "negativePrompt": "",
+    "model": "a9c27ca4-3ec9-43e8-96cd-ee891aba64c5",
+    "modelName": "Text to Motion",
+    "customSeed": 809203409,
+    "w3CTraceId": "91b41c104f04fbcbb1826e77298ff8b7",
+    "isTrimmed": false
+}

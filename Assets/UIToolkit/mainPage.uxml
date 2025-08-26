@@ -1,0 +1,5 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/UIToolkit/mainmenustyle.uss?fileID=7433441132597879392&amp;guid=552e560a7214f2848b76e0d01d986720&amp;type=3#mainmenustyle" />
+    <ui:Label text="Label" enabled="true" style="height: 36px; -unity-text-align: upper-left; display: flex; visibility: visible; font-size: 18px;" />
+    <ui:Button text="Button" class="my-btn" />
+</ui:UXML>

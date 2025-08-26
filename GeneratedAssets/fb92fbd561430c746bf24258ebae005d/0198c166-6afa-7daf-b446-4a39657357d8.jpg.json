@@ -1,0 +1,20 @@
+{
+    "asset": "fb92fbd561430c746bf24258ebae005d",
+    "fileName": "0198c166-6afa-7daf-b446-4a39657357d8.jpg",
+    "prompt": "Create a sprite sheet of fire.",
+    "negativePrompt": "Remove background from it",
+    "model": "8dcf54e0-c670-4783-a721-57c13529c16c",
+    "modelName": "VFX Hits",
+    "customSeed": -1,
+    "w3CTraceId": "ecc7fe85be06bbf48802e7c744daf104",
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0
+}

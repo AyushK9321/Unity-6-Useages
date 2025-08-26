@@ -1,0 +1,20 @@
+{
+    "asset": "fb92fbd561430c746bf24258ebae005d",
+    "fileName": "0198c162-d6cc-78dd-aa6e-17782f1b7c1f.png",
+    "prompt": "A 2D sprite sheet of a character similar to those in Pokémon games, featuring a young adventurer with a backpack, wearing a cap, and ready for exploration. The sprite sheet should include walking animations in all four directions (up, down, left, right) with a transparent background.",
+    "negativePrompt": "",
+    "model": "242b56c1-2224-41c4-8949-2ba760bbfc69",
+    "modelName": "16-bit Pixel",
+    "customSeed": -1,
+    "w3CTraceId": "1f3a151e5408361aebe24809616a9096",
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0
+}
