@@ -1,5 +1,7 @@
 <ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
-    <Style src="project://database/Assets/UIToolkit/mainmenustyle.uss?fileID=7433441132597879392&amp;guid=552e560a7214f2848b76e0d01d986720&amp;type=3#mainmenustyle" />
-    <ui:Label text="Label" enabled="true" style="height: 36px; -unity-text-align: upper-left; display: flex; visibility: visible; font-size: 18px;" />
-    <ui:Button text="Button" class="my-btn" />
+    <Style src="project://database/Assets/UIToolkit/USS/NewSS.uss?fileID=7433441132597879392&amp;guid=8c4995498cfca2947a987266f5ba802f&amp;type=3#NewSS" />
+    <ui:VisualElement style="flex-grow: 0; flex-direction: row; flex-shrink: 1; flex-basis: auto; flex-wrap: nowrap; background-color: rgba(201, 159, 218, 0.99);">
+        <ui:Button text="Button1" enabled="true" style="flex-grow: 0; flex-shrink: 0; flex-basis: 100px; border-left-color: rgb(0, 0, 0); border-right-color: rgb(0, 0, 0); border-top-color: rgb(0, 0, 0); border-bottom-color: rgb(0, 0, 0); border-top-width: 6px; border-right-width: 6px; border-bottom-width: 6px; border-left-width: 6px; border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom-right-radius: 10px; border-bottom-left-radius: 10px;" />
+        <ui:Button text="Button2" style="border-top-width: 0; border-right-width: 0; border-bottom-width: 0; border-left-width: 0; border-top-left-radius: 40px; border-top-right-radius: 40px; border-bottom-right-radius: 40px; border-bottom-left-radius: 40px; width: 100px; height: 100px;" />
+    </ui:VisualElement>
 </ui:UXML>
